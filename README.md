@@ -26,7 +26,7 @@ Built with ChromaDB, Sentence Transformers, Groq, and Streamlit.
 
 ### 1. Clone the repo
 git clone https://github.com/PrashikSawant/RAG-with-Source-Citations \
-cd day14-rag-citations
+cd rag-citations
 
 ### 2. Install dependencies
 pip install -r requirements.txt
@@ -46,6 +46,7 @@ streamlit run app.py
 - Rich metadata — filename, page, chunk, char count
 
 ## 📁 Project Structure
+``` bash
 day14-rag-citations/
 ├── app.py              # Streamlit UI, citation rendering
 ├── rag_engine.py       # RAG logic, citation formatting
@@ -53,6 +54,12 @@ day14-rag-citations/
 ├── .env               # API key (not committed)
 ├── .gitignore         # Ignores .env, chroma_db, cache
 └── chroma_db/         # Auto-created, gitignored
+```
 
 ## 🔗 Part of 30-Day AI Engineering Bootcamp
 Day 14 of 30 | RAG & Vector Databases Phase
+
+## 👨‍💻 About Me
+I am Prashik — an aspiring AI Engineer currently on a 4-month intensive journey to become job-ready in Generative AI Engineering.
+
+Follow my journey on [LinkedIn](https://www.linkedin.com/in/prashik-sawant-ds)
