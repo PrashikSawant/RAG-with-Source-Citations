@@ -25,7 +25,7 @@ Built with ChromaDB, Sentence Transformers, Groq, and Streamlit.
 ## 🚀 Setup & Run
 
 ### 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/day14-rag-citations
+git clone https://github.com/PrashikSawant/RAG-with-Source-Citations \
 cd day14-rag-citations
 
 ### 2. Install dependencies
